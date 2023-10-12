@@ -1,2 +1,2 @@
 # Major_demo
-This is a demo for major.
+This is a demo for major!
